@@ -1,0 +1,25 @@
+{
+  "at": "2026-10-17T15:40:46.190883+08:00",
+  "content_id": "eli-enterprise-ai-workflow-poster-20261017",
+  "output": "/Volumes/EXTERNAL/自媒体/朋友圈海报/20261017-enterprise-ai-workflow/output/eli-ai-workflow-poster-3x4-v1.png",
+  "dimensions": [
+    1080,
+    1440
+  ],
+  "mime": "image/png",
+  "bytes": 2039476,
+  "sha256": "65394c7e5685542d7144b7ff4662bcd947764ded471617e0d37a3de757d3eff8",
+  "owner_report_received": true,
+  "pmo_review": "PASS_FOR_USER_REVIEW: actual final full PNG,270px phone view and native workflow crop viewed; homepage charcoal/purple, no personal portrait or event, all title/equation/three questions/closing/signature legible, no critical overlap observed.",
+  "method": "built-in image_gen edit, proportional final size normalization",
+  "prompt": "/Volumes/EXTERNAL/自媒体/朋友圈海报/20261017-enterprise-ai-workflow/process/v1/prompt-final.txt",
+  "source_record": "/Volumes/EXTERNAL/自媒体/朋友圈海报/20261017-enterprise-ai-workflow/process/v1/manifest.json",
+  "limitations": [
+    "No WeChat upload or compression test",
+    "Conceptual workflow illustration, not measured business results",
+    "Actual model/effort UNKNOWN"
+  ],
+  "user_approval": "PENDING",
+  "published": false,
+  "temporary_files": "Inputs/process/output retained for recovery and review; no deletion"
+}

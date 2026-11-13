@@ -1,0 +1,43 @@
+{
+  "content_id": "eli-enterprise-ai-workflow-poster-20261017",
+  "owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "rules": [
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-13-v4",
+    "ELI-COVER-20261017-v3"
+  ],
+  "targetModel": "gpt-6-astra",
+  "targetEffort": "medium",
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "tool": "built-in image_gen.imagegen",
+  "finalInputPaths": [
+    "/Volumes/EXTERNAL/自媒体/朋友圈海报/20261017-enterprise-ai-workflow/process/v1/superseded-white-no-portrait.png",
+    "/Volumes/EXTERNAL/自媒体/朋友圈海报/20261017-enterprise-ai-workflow/input/eli-homepage-style-reference.png"
+  ],
+  "finalInputNote": "Final edit inputs only portrait-free candidate and homepage screenshot; no art portrait supplied to final call. Earlier superseded candidate used art portrait before latest correction; preserved only as process evidence.",
+  "latestRequirements": [
+    "No portrait",
+    "Homepage charcoal purple palette",
+    "No event information"
+  ],
+  "checks": {
+    "fullImageViewed": true,
+    "phone270Viewed": true,
+    "workflowNativeViewed": true,
+    "text": "All supplied title, secondary, three questions, closing and signature visually verified",
+    "portrait": "None in final; only small generic illustrative workers",
+    "logic": "Two employee inputs connect through accumulating documents and gates toward sparse downstream output; conceptual illustration, not literal workflow specification",
+    "legibility": "Main title and closing clear at270px; question labels distinguishable; small signature secondary",
+    "hands": "No obvious malformed illustrative hands seen at native crop",
+    "overlap": "No observed critical text clipping or occlusion"
+  },
+  "limitations": [
+    "Generated raster palette follows reference visually; exact per-pixel CSS color identity is not claimed",
+    "No WeChat upload/compression/crop test",
+    "PMO and user approval pending"
+  ],
+  "processing": "Generated1086x1448 proportionally normalized via FFmpeg Lanczos contain/pad to1080x1440, no stretching or cropping.",
+  "status": "PENDING_PMO_REVIEW",
+  "cleanup": "All created files serve delivery/QA/provenance; preserved, no deletion."
+}

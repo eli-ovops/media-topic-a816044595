@@ -1,0 +1,25 @@
+{
+  "content_id": "eli-enterprise-ai-workflow-poster-20261017",
+  "kind": "WECHAT_MOMENTS_VIEWPOINT_POSTER",
+  "user_request": "把这个图改成属于我们eli风格的样子。我需要发朋友圈",
+  "user_clarifications": [
+    "改成Eli观点海报，去掉活动信息",
+    "不用艺术照",
+    "图片风格用我们的黑色紫色风格。我的个人主页的那种色彩风格"
+  ],
+  "owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "root": "/Volumes/EXTERNAL/自媒体/朋友圈海报/20261017-enterprise-ai-workflow",
+  "source": "input/reference.jpg",
+  "source_sha256": "8647b509cf810465d8a0e4d893311a4d2c9465fb03ae893b4db15b42faaa1c56",
+  "brand_reference": "input/eli-homepage-style-reference.png",
+  "palette": "input/brand-palette.json",
+  "use_personal_portrait": false,
+  "remove_original_event": true,
+  "dimensions": [1080,1440],
+  "output": "output/eli-ai-workflow-poster-3x4-v1.png",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "scope": "单张本地图片编辑、检查及交付；不制作视频、不发朋友圈、不改网站、无额外费用"
+}
